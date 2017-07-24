@@ -1,2 +1,3 @@
 # hello-world
-repository tutorial
+
+I am Jay Dubya! An electrial engineer trying to expand his knowledge base
